@@ -121,7 +121,7 @@ void displayText(){
       prompt3="In the          " ;
       prompt4="dishwasher!     " ;
       break;
-    case 4:    // winner
+    case 4:    // startup
       prompt1="Happy Birthday" ;
       prompt2="Jamie!!" ;
       prompt3="Here is your";

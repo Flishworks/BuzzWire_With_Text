@@ -1,6 +1,7 @@
 //BuzzWire_With_Text
 //This is the code for an advanced version of the game buzz wire with conditional LCD output and piezo song upon completion.
 //Avi Kazen 08-2018
+//https://www.instructables.com/id/Buzz-Wire-Scavenger-Hunt-Clue/
 //Piezo "Happy Birthday" taken from https://create.arduino.cc/projecthub/trduunze/piezo-happy-birthday-7ea362
 
 
